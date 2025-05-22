@@ -9,7 +9,7 @@ This is a curated website hosted via GitHub Pages that lists high-quality resour
 - Data Analytics
 - Artificial Intelligence
 
-📍 Live Website: [https://your-username.github.io/ml-resources-website](https://your-username.github.io/ml-resources-website)
+📍 Live Website: [https://22f3001316.github.io/Complete-Resources-AIMLDS/](https://22f3001316.github.io/Complete-Resources-AIMLDS/)
 
 
 
